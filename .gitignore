@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+/dist/
+backend/dist/
+
+# Env files
+.env
+backend/.env
+
+# Logs
+*.log
+logs/
+backend/logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jest coverage
+coverage/
+backend/coverage/
